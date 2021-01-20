@@ -1,3 +1,6 @@
+# A* Algorithm
+# Base code from https://www.youtube.com/watch?v=JtiK0DOeI4A&t=2s
+
 import pygame
 from queue import PriorityQueue
 
